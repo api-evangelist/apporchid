@@ -1,0 +1,47 @@
+generated: '2026-09-25'
+method: searched
+generator: extract-docs-artifacts.py (local)
+source: https://www.apporchid.com/category/release-notes
+sources:
+- https://www.apporchid.com/category/release-notes
+- https://docs.apporchid.com/release-notes-ao-platform/4.5-20260309-public
+entries:
+- breaking: false
+  highlights:
+  - Release Notes - 4.5 - AO Platform
+- breaking: false
+  highlights:
+  - Release Notes - 4.4 - AO Platform
+- breaking: false
+  highlights:
+  - Release Notes - 4.3 - AO Platform
+- breaking: false
+  highlights:
+  - Release Notes - 4.2 - AO Platform
+- breaking: false
+  highlights:
+  - Release Notes - 4.1 - AO Platform
+- breaking: false
+  highlights:
+  - Release Notes - 4.0
+- breaking: false
+  highlights:
+  - Release Notes - 3.5
+- breaking: false
+  highlights:
+  - Release Notes - 3.4.1
+- breaking: false
+  highlights:
+  - Release Notes - 3.4
+- breaking: false
+  highlights:
+  - Release Notes - 3.3
+- breaking: false
+  highlights:
+  - Release Notes - 3.2
+- breaking: false
+  highlights:
+  - Release Notes - 3.1
+current_version: '4.5'
+note: Versioning scheme is numeric major.minor (e.g., 4.5). Dates are not provided in YYYY-MM-DD format on the source pages.
+docs: https://www.apporchid.com/category/release-notes

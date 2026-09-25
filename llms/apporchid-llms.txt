@@ -1,0 +1,124 @@
+# App Orchid
+
+> App Orchid is an enterprise AI platform that makes business data AI-ready through a patented semantic knowledge graph. Its semantic (or "context") layer sits between fragmented enterprise data and AI agents, BI tools, and applications—capturing relationships, business logic, and meaning so LLMs can reason over data accurately instead of hallucinating. The flagship product, Easy Answers™, lets users ask questions in plain English and get explainable, traceable analytics, insights, and recommendations.
+
+App Orchid's core thesis is that accuracy is the bottleneck for enterprise AI, and that a semantic layer closes the "context gap" between what AI models see in raw data and what the business actually means. The platform automates ontology discovery and enrichment with LLMs, connects to data where it lives (lakehouses, SQL databases, SaaS apps, and unstructured documents) without forcing a single warehouse, and is model-agnostic—supporting OpenAI, Google Gemini, Anthropic Claude, Meta Llama, Mistral, DeepSeek, and Azure OpenAI. It is agent-ready, with support for Model Context Protocol (MCP), Google Agentspace, and ontology-driven Text2SQL.
+
+## Core Pages
+
+- [Home](https://www.apporchid.com): Overview of the semantic knowledge graph engine and Decision Intelligence powered by Easy Answers™.
+- [Platform](https://www.apporchid.com/platform): The App Orchid platform—a predictive data fabric integrating multi-model data sources and embedding AI across enterprise processes.
+- [Semantic Layer](https://www.apporchid.com/semantic): The universal semantic layer for trustworthy AI agents, BI, and applications, with automated discovery and external data onboarding.
+- [AI Suite](https://www.apporchid.com/ai-suite): Composable AI stack with semantic abstraction over enterprise data, multi-agent support, MCP, and Bayesian Decision Networks.
+- [Text2SQL](https://www.apporchid.com/text2sql): Ontology-driven Text2SQL approach for high-accuracy natural-language-to-query translation.
+- [About](https://www.apporchid.com/about): Company background and mission to democratize AI-powered Decision Intelligence.
+- [Blog](https://www.apporchid.com/blog): Articles on semantic layers, ontologies, agentic AI, decision intelligence, and customer stories.
+- [Careers](https://www.apporchid.com/careers): Open roles at App Orchid.
+- [Contact](https://www.apporchid.com/contact): Get in touch with the App Orchid team.
+
+## Semantic Layer, Ontologies & Context
+
+- [Why Does a Semantic Layer Matter?](https://www.apporchid.com/blog/unlocking-ai-ready-data-why-does-a-semantic-layer-matter): How a semantic layer connects sources, applies governance, enriches data, and fuels accurate AI.
+- [The Context Layer: Why a Simple Business Question Is So Hard for LLMs](https://www.apporchid.com/blog/the-context-layer-why-answering-a-simple-business-question-is-so-hard-for-llms): The disconnect between raw enterprise data and the context LLMs need.
+- [A16z's Modern Context Layer Vision: The App Orchid Approach](https://www.apporchid.com/blog/a16zs-modern-context-layer-vision-the-app-orchid-approach): App Orchid mapped to the five requirements of a modern, agentic data system.
+- [Why Your Enterprise Needs a Semantic Layer for True Intelligence](https://www.apporchid.com/blog/ai-agents-why-your-enterprise-needs-a-semantic-layer-for-true-intelligence): How AI agents and semantic layers interplay to turn data complexity into opportunity.
+- [Not All Context Is Created Equal: Why Ontologies Matter](https://www.apporchid.com/blog/not-all-context-is-created-equal-why-ontologies-matter): Why ontologies are central to grounding AI in business meaning.
+- [Automated Ontology Discovery Done Right](https://www.apporchid.com/blog/automated-ontology-discovery-done-right): Approach to automating ontology construction from existing data relationships.
+- [Knowledge Graphs & Ontologies](https://www.apporchid.com/blog/knowledge-graphs-ontologies): Foundations of knowledge graphs and ontologies for enterprise data.
+- [Knowledge Graphs for Data Curation, Organization & Retrieval](https://www.apporchid.com/blog/knowledge-graphs-for-data-curation-organization-retrieval): Using knowledge graphs to curate and retrieve enterprise data.
+- [When AI Learns to Think Like Your Business](https://www.apporchid.com/blog/when-ai-learns-to-think-like-your-business-the-missing-link-is-semantic-understanding): Semantic understanding as the missing link in enterprise AI.
+- [A Digital Twin of Your Business—Why Do It](https://www.apporchid.com/blog/a-digital-twin-of-your-business-why-do-it): The case for modeling your business as a connected data twin.
+- [The RAG Approach to LLMs](https://www.apporchid.com/blog/rag-approach-llms): Retrieval-augmented generation in the context of enterprise data.
+- [AI Glossary: Navigating AI Terminology](https://www.apporchid.com/blog/ai-glossary-navigating-ai-terminology): Reference glossary of common AI terms.
+
+## Agentic AI & Decision Intelligence
+
+- [From Promise to Proof: What Enterprise AI Must Deliver in 2026](https://www.apporchid.com/blog/from-promise-to-proof-what-enterprise-ai-must-deliver-in-2026): What enterprises should expect from AI as it moves from hype to results.
+- [Agentic Architecture's Weak Link](https://www.apporchid.com/blog/agentic-architectures-weak-link): The structural gap that undermines agentic AI systems.
+- [Are You Agent-Ready? Google Agentspace and App Orchid](https://www.apporchid.com/blog/are-you-agent-ready-unlocking-business-value-with-google-agentspace-and-app-orchid): Unlocking business value with Agentspace and the semantic layer.
+- [Meet the Conversational Analytics Agent](https://www.apporchid.com/blog/beyond-static-dashboards-meet-the-app-orchid-conversational-analytics-agent): App Orchid's dialogue-driven agent with continuous semantic enrichment.
+- [Beyond Dashboards: Model-Driven Intelligence](https://www.apporchid.com/blog/beyond-dashboards-how-model-driven-intelligence-turns-enterprise-data-into-decisions): Turning enterprise data into decisions rather than static reports.
+- [AI Needs Guardrails: Expanding Enterprise AI Without Losing Trust](https://www.apporchid.com/blog/ai-needs-guardrails-expanding-enterprise-ai-without-losing-trust): Scaling AI while maintaining governance and trust.
+- [Advancing Enterprise AI Governance and Decision Intelligence](https://www.apporchid.com/blog/advancing-enterprise-ai-governance-and-decision-intelligence): Governance and decision intelligence at the enterprise level.
+- [Escaping Pilot Purgatory: Why AI Proofs of Concept Fail (Part 1)](https://www.apporchid.com/blog/part-1-escaping-pilot-purgatory-why-ai-proof-of-concepts-fail): Why AI POCs stall before production.
+- [From Proof of Concept to Production: The AI Delivery Playbook (Part 2)](https://www.apporchid.com/blog/part-2-from-proof-of-concept-to-production-the-ai-delivery-playbook): A playbook for moving AI from POC to production.
+- [Why Your AI Data Scientist Doesn't Understand Cause and Effect](https://www.apporchid.com/blog/why-your-ai-data-scientist-doesnt-understand-cause-and-effect): The causal reasoning gap in AI analytics.
+- [How App Orchid Uses Generative AI and LLMs in the Platform](https://www.apporchid.com/blog/how-app-orchid-uses-generative-ai-and-llms-in-the-platform): How Gen AI and LLMs are woven into the platform, securely.
+- [Role-Based Control of LLMs in Agentic BI](https://www.apporchid.com/blog/app-orchid-enables-role-based-control-of-llms-in-agentic-bi): Role-based controls for LLMs in business intelligence.
+- [Agentic AI Will Reshape How We Live](https://www.apporchid.com/blog/agentic-ai-will-reshape-how-we-live): A broader perspective on the impact of agentic AI.
+- [The Next Competitive Edge: Turning Data Into Action With Gen AI](https://www.apporchid.com/blog/the-bottom-line-the-next-competitive-edge-is-turning-data-into-action-with-gen-ai): Gen AI as a competitive advantage.
+- [Did the Market Just Admit What the Bottleneck to AI Is?](https://www.apporchid.com/blog/did-the-market-just-admit-what-the-bottleneck-to-ai-is): On context and data readiness as the real AI bottleneck.
+- [Satya Nadella Put the Industry on Notice: Stop Renting Your Brain](https://www.apporchid.com/blog/satya-nadella-just-put-the-industry-on-notice-stop-renting-your-brain): Commentary on owning enterprise context and intelligence.
+
+## Text2SQL & Accuracy
+
+- [Setting a New Benchmark for Text-to-SQL Accuracy](https://www.apporchid.com/blog/app-orchid-sets-new-benchmark-for-text-to-sql-accuracy-with-ontology-driven-ai-solution): Ontology-driven Text2SQL accuracy results.
+- [How Ontology-Driven Text-to-SQL Redefines Accuracy and Trust](https://www.apporchid.com/blog/how-app-orchids-ontology-driven-text-to-sql-solution-redefines-accuracy-and-trust-in-an-era-of-llm-hallucinations): Accuracy and trust in an era of LLM hallucinations.
+- [Agentic AI With Semantic SQL Accuracy](https://www.apporchid.com/blog/app-orchid-delivers-agentic-ai-with-semantic-sql-accuracy): The Conversational Analytics Agent and benchmark-breaking accuracy.
+
+## Customer Stories & Case Studies
+
+- [20+ Applications on the Semantic Layer: American Water](https://www.apporchid.com/blog/20-applications-built-on-app-orchids-semantic-layer-how-american-water-has-modernized-operations): How the largest U.S. water utility modernized operations.
+- [How BP Cut Contracting Time From 92 Days to 8](https://www.apporchid.com/blog/how-bp-is-cutting-contracting-time-from-92-days-to-8-and-reducing-risk): Reducing contracting time and risk with Contract AI.
+- [How Blue Diamond Growers Is Winning in Manufacturing](https://www.apporchid.com/blog/how-blue-diamond-growers-is-winning-in-manufacturing-one-smart-ai-use-case-at-a-time): One smart AI use case at a time in manufacturing.
+- [How Fracsun Predicts Solar Farm Soiling Loss With 95% Accuracy](https://www.apporchid.com/blog/how-fracsun-used-app-orchid-to-predict-solar-farm-soiling-loss-with-95-accuracy): Predicting solar soiling loss for solar farms.
+- [Fracsun Tackles Solar's Biggest Loss, Powered by App Orchid AI](https://www.apporchid.com/blog/fracsun-tackles-solar-industries-biggest-loss-powered-by-app-orchid-ai): Addressing the solar industry's biggest source of loss.
+- [Cleo AI: Co-Developed Soiling-Loss Modeling Tool With Fracsun](https://www.apporchid.com/blog/app-orchid-and-fracsun-launch-a-co-developed-an-ai-powered-soiling-loss-modeling-tool-cleo-ai): A jointly built AI tool for solar soiling loss.
+- [Fortune 500 CPG Leader Accelerated Product Innovation](https://www.apporchid.com/blog/fortune-500-cpg-leader-accelerated-product-innovation): Accelerating innovation at a major CPG company.
+- [How a Transportation Leader Cut Costs With Real-Time Visibility](https://www.apporchid.com/blog/how-a-transportation-leader-cut-costs-with-real-time-visibility): Real-time visibility for cost reduction in transportation.
+- [Customer 360](https://www.apporchid.com/blog/customer-360): Building a unified Customer 360 view from connected data.
+
+## Platforms, Partners & Comparisons
+
+- [Snowflake + App Orchid: Why You Need Both](https://www.apporchid.com/blog/snowflake-ao-why-you-need-both): How App Orchid complements Snowflake.
+- [Databricks + App Orchid](https://www.apporchid.com/blog/databricks-apporchid): Using App Orchid with Databricks.
+- [Why Can't I Just Do This in Microsoft Fabric?](https://www.apporchid.com/blog/why-cant-i-just-do-this-in-microsoft-fabric): Where a dedicated semantic layer goes beyond Fabric.
+- [App Orchid's Enterprise AI Suite vs. Microsoft Copilot](https://www.apporchid.com/blog/app-orchids-enterprise-ai-suite-vs-microsoft-copilot): A comparison of approaches to enterprise AI.
+- [Running Critical Apps on an Enterprise Data Fabric](https://www.apporchid.com/blog/running-critical-apps-on-an-enterprise-data-fabric): Operating mission-critical applications on a data fabric.
+- [How App Orchid Accelerates Insights for Google Cortex Customers](https://www.apporchid.com/blog/how-app-orchid-accelerates-insights-for-google-cortex-customers): Accelerating insights for Google Cloud Cortex Framework users.
+
+## Industry & Use Cases
+
+- [Reducing Manufacturing Waste With Decision Intelligence](https://www.apporchid.com/blog/from-data-to-action-reducing-manufacturing-waste-with-decision-intelligence): Cutting waste through data-to-action decision intelligence.
+- [Reducing Workers' Compensation Costs With AI Decision Intelligence](https://www.apporchid.com/blog/from-data-to-action-reducing-workers-compensation-costs-with-ai-decision-intelligence): Lowering workers' comp costs with AI.
+- [Reduce Stockouts With AI-Powered Supply Chain](https://www.apporchid.com/blog/reduce-stockouts-and-increase-customer-satisfaction-with-ai-powered-supply-chain): Improving supply chain and customer satisfaction.
+- [Predicting Lurking Asset Issues to Maximize Cost Savings](https://www.apporchid.com/blog/maximize-cost-saving-and-operational-efficiency-by-predicting-lurking-asset-issues): Predictive maintenance for operational efficiency.
+- [Detecting Hidden Asset Issues in Utility Meter Operations](https://www.apporchid.com/blog/reducing-operational-spend-by-detecting-hidden-asset-issues-in-utility-meter-operations): Reducing operational spend in utility metering.
+- [Predict Solar Panel Soiling and Optimize Wash Schedules](https://www.apporchid.com/blog/predict-solar-panel-soiling-and-optimizing-wash-schedule-for-solar-farms): Optimizing solar farm wash schedules.
+- [Customer Context: Better Customer Service Through Knowledge Graphs](https://www.apporchid.com/blog/customer-context-better-customer-service-through-knowledge-graphs): Improving customer service with knowledge graphs.
+- [Address 80% of Customer Inquiries Immediately](https://www.apporchid.com/blog/address-80-of-customer-inquiries-immediately-with-ai-assisted-problem-solving): AI-assisted problem solving for customer inquiries.
+- [Customer Experience Management Insights](https://www.apporchid.com/blog/customer-experience-management-insights): Insights for managing customer experience.
+- [Supercharge Marketing and Strategic Groups With AI Insights](https://www.apporchid.com/blog/supercharge-marketing-and-strategic-groups-with-ai-powered-insights): AI-powered insights for marketing and strategy teams.
+- [Intelligent Insights From Unstructured Data for Commercial Real Estate](https://www.apporchid.com/blog/intelligent-insights-form-unstructured-data-for-commercial-real-estate-companies): Extracting insights from unstructured CRE data.
+- [Reduce Manual Contract Reviews to Expedite Execution](https://www.apporchid.com/blog/reduce-manual-contract-reviews-to-expedite-execution-and-mitigate-business-risk): Speeding contract execution and mitigating risk.
+- [Gain Favorable Terms While Reducing Contracting Timeline](https://www.apporchid.com/blog/gain-favorable-terms-while-reducing-contracting-timeline): Improving contract terms and timelines.
+- [4 Key Challenges Enterprise AI Can Help Ag Overcome](https://www.apporchid.com/blog/4-key-challenges-enterprise-ai-can-help-ag-overcome): Enterprise AI in agriculture.
+- [From Hive to Harvest: AI and the Mighty Honeybee](https://www.apporchid.com/blog/from-hive-to-harvest-ai-and-the-mighty-honeybee): AI applied to agriculture and pollination.
+- [Last Mile, First Priority](https://www.apporchid.com/blog/last-mile-first-priority): Tackling last-mile challenges with data and AI.
+- [How I Prototyped a Utility Issue Alerting App](https://www.apporchid.com/blog/how-i-prototyped-a-utility-issue-alerting-app): A hands-on look at prototyping an alerting application.
+
+## Optional
+
+- [Platform 4.1 Released](https://www.apporchid.com/blog/announcement-ao-platform-4-1-released): Release announcement for App Orchid Platform 4.1.
+- [Platform & Easy Answers Update: Data AI-Ready Faster](https://www.apporchid.com/blog/app-orchid-platform-and-easy-answerstm-update-makes-your-data-ai-ready-faster): Platform 4.2 update details.
+- [App Orchid Deploys Version 2.3](https://www.apporchid.com/blog/app-orchid-deploys-version-2-3): Earlier platform release notes.
+- [AO Customer Context Now on the SAP Store](https://www.apporchid.com/blog/ao-customer-context-is-now-available-on-the-sap-store): Marketplace availability announcement.
+- [AO Easy Answers Now on the SAP Store](https://www.apporchid.com/blog/ao-easy-answers-tm-is-now-available-on-the-sap-store): Marketplace availability announcement.
+- [Easy Answers Now Available on Google Cloud Platform](https://www.apporchid.com/blog/easy-answers-by-app-orchid-now-available-on-google-cloud-platform): GCP marketplace availability.
+- [Insights Accelerator for Google Cloud Cortex Customers](https://www.apporchid.com/blog/app-orchid-announces-an-insights-accelerator-for-google-cloud-cortex-framework-customers-powered-by-googles-gemini-models): Accelerator powered by Google Gemini models.
+- [Exhibiting at the 2024 Gartner Data & Analytics Summit](https://www.apporchid.com/blog/app-orchid-announces-exhibiting-at-the-2024-gartner-r-data-analytics-summit): Event announcement.
+- [Chosen for Plug and Play's Innovation Cohort](https://www.apporchid.com/blog/app-orchid-chosen-for-plug-and-plays-leading-innovation-cohort): Accelerator selection announcement.
+- [2nd Place in the 2023 Capitalize Technology Contest](https://www.apporchid.com/blog/app-orchid-places-2nd-in-the-2023-capitalize-technology-contest): Award announcement.
+- [ContractAI Recognized in 2023 Gartner Market Guide](https://www.apporchid.com/blog/contractai-is-recognized-in-the-2023-gartner-r-market-guide-for-advanced-contract-analytics): Analyst recognition for advanced contract analytics.
+- [Easy Answers Mobile](https://www.apporchid.com/easy-answers-mobile): Mobile experience for Easy Answers™.
+- [Events: Google Next](https://www.apporchid.com/events-google-next): Google Next event landing page.
+- [Blog Category: Case Studies](https://www.apporchid.com/category/case-studies)
+- [Blog Category: Contract AI](https://www.apporchid.com/category/contract-ai)
+- [Blog Category: Events](https://www.apporchid.com/category/events)
+- [Blog Category: News](https://www.apporchid.com/category/news)
+- [Blog Category: Platform](https://www.apporchid.com/category/platform)
+- [Blog Category: Release Notes](https://www.apporchid.com/category/release-notes)
+- [Blog Category: Technology](https://www.apporchid.com/category/technology)
+- [Blog Category: Utilities](https://www.apporchid.com/category/utilities)
+- [Careers: Technical Architect](https://www.apporchid.com/careers/technical-architect): Open technical architect role.
+- [Privacy Policy](https://www.apporchid.com/privacy-policy): App Orchid's privacy policy.

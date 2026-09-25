@@ -1,23 +1,91 @@
 aid: apporchid
+
 name: AppOrchid
-description: 'AppOrchid is a company surfaced via the API Evangelist harvest backlog (source: secondary-market)
-  and added to the network as a stub for full-pipeline profiling.'
+
+image: https://cdn.prod.website-files.com/67d54aec2485fd10feb66f7e/6852c91fb9dcff446a5782cb_AO%20OG.jpg
+
+description: AppOrchid provides an enterprise semantic layer and decision intelligence platform that unifies structured and unstructured data,
+  enabling AI-ready insights, conversational analytics, and composable AI solutions. Their platform offers semantic SQL, easy answers, and AI
+  suite tools for modern enterprises to build context-aware applications and drive next‑gen analytics.
+
 url: https://raw.githubusercontent.com/api-evangelist/apporchid/refs/heads/main/apis.yml
+
 x-type: company
+
 x-source: harvest:secondary-market
-x-tier: stub
-x-tier-reason: harvest
+
+x-tier: profiled
+x-tier-reason: enrichment pass 2026-09-25 (modular-v1; was harvest)
+
 specificationVersion: '0.20'
+
 created: '2026-09-25'
+
 modified: '2026-09-25'
+
 tags:
-- Company
-apis: []
+- Semantic Layer
+- Decision Intelligence
+- Enterprise AI
+- Data Fabric
+- Conversational Analytics
+- Knowledge Graph
+- Semantic SQL
+
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+
 common:
+- type: ChangeLog
+  url: changelog/apporchid-changelog.yml
+- type: LLMsTxt
+  url: llms/apporchid-llms.txt
+- type: Hosts
+  url: hosts/apporchid-hosts.yml
+- type: Vendors
+  url: vendors/apporchid-vendors.yml
+- type: SDKs
+  url: packages/apporchid-packages.yml
+- type: Packages
+  url: packages/apporchid-packages.yml
+- type: PrivacyPolicy
+  url: https://www.apporchid.com/privacy-policy
+- type: Newsroom
+  url: https://www.apporchid.com/category/news
+- type: ChangeLog
+  url: https://www.apporchid.com/category/release-notes
+- type: Blog
+  url: https://www.apporchid.com/blog
+- type: GettingStarted
+  url: https://docs.apporchid.com/getting-started/4.5-20260309-public
+- type: Documentation
+  url: https://docs.apporchid.com/
+- type: DomainSecurity
+  url: security/apporchid-domain-security.yml
 - type: Website
-  url: https://www.nasdaqprivatemarket.com/
+  url: https://www.apporchid.com/
+
+apis:
+- name: AppOrchid API
+  description: Enterprise semantic layer and decision intelligence platform API
+  humanURL: https://docs.apporchid.com/
+  baseURL: null
+  aid: apporchid:apporchid-api
+
+x-coverage:
+  state: unreadable
+  reason: js-rendered-docs
+  detail: Docs are served as a JavaScript SPA preventing direct spec retrieval.
+  evidence:
+  - url: https://docs.apporchid.com/
+    status: 200
+  checked: 2026-09-25
+x-enrichment:
+  date: '2026-09-25'
+  status: enriched
+  artifacts_added: 9
+  pass: modular-v1
+  engine: identity=local,contract=local,surfaces=local,docs=local

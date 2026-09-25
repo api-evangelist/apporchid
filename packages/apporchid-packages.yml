@@ -1,0 +1,18 @@
+generated: 2026-09-25
+method: searched
+source: https://registry.npmjs.org/-/v1/search?text=apporchid
+packages:
+  - name: apporchid-footer
+    registry: npm
+    url: https://www.npmjs.com/package/apporchid-footer
+    language: javascript
+    official: false
+    version: 1.0.0
+    published: 2017-03-24
+  - name: ao-mcp-bridge
+    registry: npm
+    url: https://www.npmjs.com/package/ao-mcp-bridge
+    language: javascript
+    official: true
+    version: 1.0.4
+    published: 2026-05-02
