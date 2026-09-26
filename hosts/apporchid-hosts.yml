@@ -53,13 +53,16 @@ hosts:
   - docs-index
   - contract-discovery
   - well-known
+  - vendor-detect
   types:
   - GettingStarted
   - Documentation
   serves:
   - docs
+  - cdn
   title: AO Platform - Documentation
   status: 200
+  vendor: cloudfront
   registrable_domain: apporchid.com
   role: docs
   relation: own
